@@ -1,5 +1,8 @@
 #include<iostream>
+using namespace std;
+
 int main()
 {
 cout<<"this is a sample file";
+return 0;
 }
