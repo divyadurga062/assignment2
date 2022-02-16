@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"this is a sample file";
+cout<<"welcome to git demo";
 return 0;
 }
