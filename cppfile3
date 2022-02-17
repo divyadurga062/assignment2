@@ -1,8 +1,0 @@
-#include<iostream>
-using namepspace std;
-
-int main()
-{
-cout<<"hello there";
-cout<<"This is BT20CSE062";
-}
