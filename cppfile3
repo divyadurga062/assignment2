@@ -1,9 +1,0 @@
-#include<iostream>
-using namepspace std;
-
-int main()
-{
-cout<<"This is BT20CSE062";
-cout<<"My name is kanuparthi divya durga";
-return 0;
-}
